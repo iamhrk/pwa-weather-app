@@ -7,7 +7,7 @@
 /bazel-out
 
 #environment
-/src/environment/*
+src/app/environments/environment.ts
 
 # Node
 /node_modules
@@ -43,3 +43,4 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
