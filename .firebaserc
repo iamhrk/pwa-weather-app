@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pwa-weather-app-aa4bb": {
+      "hosting": {
+        "pwa-weather-app": [
+          "pwa-weather-app-aa4bb"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pwa-weather-app-aa4bb"
+  }
+}
