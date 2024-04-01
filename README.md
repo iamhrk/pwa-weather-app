@@ -1,4 +1,20 @@
-# PwaWeatherApp
+# PWA Weather App
+
+Uses the service worker implementation of the Angular framework to build a PWA that displays the weather of a city using the [OpenWeather API](https://openweathermap.org/api).
+
+The project achieves the following
+
+- Setting up the OpenWeather API
+- Displaying weather data
+- Enabling offline mode with the service worker
+- Staying up to date with in-app notifications
+
+The application is deployed with Firebase Hosting.
+
+See the deployed application here: [https://pwa-weather-app-aa4bb.web.app/](https://pwa-weather-app-aa4bb.web.app/) 
+
+The project uses [Angular Material](https://material.angular.io)
+<hr>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
